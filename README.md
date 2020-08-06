@@ -1,5 +1,5 @@
-<img width="auto" src="https://avatars1.githubusercontent.com/u/69287499?s=460&u=a0ec8ecd491b04706f8daf420e19d6a58f1985f0&v=4">
-
+# Sofia von 
+## Hey guys, I'm Sofia and I'm from Brazil
 <!--
 **SofiaVon/SofiaVon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
