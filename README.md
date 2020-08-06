@@ -1,4 +1,4 @@
-### Hi there 👋
+img width="auto" src="https://github.com/SofiaVon/SofiaVon/blob/master/banner.png">
 
 <!--
 **SofiaVon/SofiaVon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
